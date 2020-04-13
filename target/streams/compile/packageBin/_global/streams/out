@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allen/rep/fpis3.24/target/scala-2.13/fpis3-24_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	List$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/List$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListHasSubSequenceTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/ListHasSubSequenceTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListHasSubSequenceTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/ListHasSubSequenceTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	List.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/List.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListHasSubSequenceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/ListHasSubSequenceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis3.24/target/scala-2.13/classes/Nil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
